@@ -1,0 +1,66 @@
+
+/* ----------- header  and div1 section: schimbare culoare, background-color si alinierea textului-------------------- */
+
+header .div1{color: white;text-align: center; padding: 10px; background-color: rgb(0, 0, 0); margin: 0;}
+
+/* ---------------------------------- h1 section: schimbare dimensiune si stilul scrisului---------------------------------- */
+
+h1{font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-size: 50px;}
+
+/*nav si ul section: am folosit un display block ,am schimbat fundalul  */
+
+nav ul{margin: 0; padding: 0; display: block; background-color: rgb(32, 28, 35); overflow: hidden; list-style-type: none; }
+
+/* li si a section: am folosit alt display block am asezat totul la stanga in bara de navigatie si am schimbat culoarea textului in alb*/
+
+  li a{display: block; padding: 14px; text-align: center;float:left; text-decoration: none; color: rgb(255, 255, 255); }
+
+/* -------------------------------------------------------------------------- */
+/* am folosit o alta culoare a fontului ca sa arate frumos cand misti cu mausul pe cuvintele din navigatie */
+/* -------------------------------------------------------------------------- */
+
+li a:hover{background-color: rgb(45, 45, 45);}
+
+
+
+
+/* ----------------------------------- footer .div5 section: am schimbat fundalul la footer si scrisul la-m facut alb----------------------------------- */
+
+footer .div5{background-color: rgb(0, 0, 0); text-align: center;padding: 50px; color: white; margin: 0;}
+
+/* ------------------------------------img1 section: am asezat logo-ul firmei in partea din stanga ----------------------------------- */
+
+ .img1{float: left;}
+
+/* ------------------------------------ h2 section: Am schimbat dimensiunea lui h2  ----------------------------------- */
+
+ h2{font-size: 35px;}
+
+/* -------------------------------------------------------------------------- */
+/*                                      p section: am schimbat dimensiunea si stilui scrisului     */
+/* -------------------------------------------------------------------------- */
+
+ p{font-size: 20px; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+
+/* ----------------------------------- hr section: am modificat latimea  ----------------------------------- */
+
+ hr{width: 30%;}
+
+/* -------------------------------------------------------------------------- */
+/*                                      .img2/.img3 section: am modificat asezarea imagini  */
+/* -------------------------------------------------------------------------- */
+
+ .img2{float: inline-end;}
+ .img3{float: inline-end;}
+
+/* ----------------------------------- .div3 section: am schimbat culoarea fontului  ----------------------------------- */
+
+.div3{background-color: rgb(75, 75, 75); }
+
+/* ------------------------------------ .a3 section: am schimbat culoarea si am scos bara de jos al cuvantului ----------------------------------- */
+
+.a3{ color: white; text-decoration: none;}
+
+/* ------------------------------------ .p1 section: am schimbat culoarea textului in alb ----------------------------------- */
+
+.p1{color: white;}
